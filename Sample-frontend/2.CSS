@@ -1,0 +1,18 @@
+body{
+
+}
+label {
+	padding: 12px 12px 12px 0;
+	display: inline-block;
+  }
+  .main {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+  }
+  h1{
+	  text-align: center;
+  }
+  .form{
+	  text-align: center;
+  }
